@@ -10,4 +10,4 @@ Now at **WINS Lab** I'm building the edge infrastructure for an IoT botnet detec
 
 **Languages:** C/C++, Python, Go  
 **Hardware:** RP2040, STM32, WIZnet W5500, Raspberry Pi 4  
-**Interests:** Embedded systems, network security, real-time control
+**Interests:** Embedded systems, network security, real-time control, software engineering
